@@ -1,0 +1,4 @@
+google-play-scraper
+pyqt5
+beautifulsoup4
+pyqtwebengine
