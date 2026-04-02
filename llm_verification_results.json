@@ -1,0 +1,702 @@
+[
+  {
+    "app": "First Words for toddler",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Robocar POLI: Sing Along",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Learn Like Nastya: Kids Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "iKids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Leeloo AAC - Autism Speech App",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Vlad and Niki \u2013 games & videos",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Khan Academy Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Coloring & Learn",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Princess Coloring Book & Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Piano Kids - Music & Songs",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "YouTube Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Samorost 3",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dinosaur VR Educational Game",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "ABC Song Rhymes Learning Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "JunyTony- Learning & Games!",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Archaeologist - Dinosaur Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "What's in Space?",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Smartick Kids Learn Math",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Hama Universe",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Adibou by Wiloki \u2013 ages 4 to 7",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Offline Preschool Games",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Animal Jam",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Masha and the Bear Educational",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Cubistry",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "ScratchJr",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "iDraw",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Timpy Cooking Games for Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "YoYa: Busy Life World",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dr. Panda - Learn & Play",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Preschool Learning Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Fairy Tales ~ Children\u2019s Books",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Coloring and Drawing For Girls",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Coloring Book - Kids Paint",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Mushroom 11",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dr. Panda Town Tales",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Google Kids Space",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Stop Motion Studio",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "CHUCHEL",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dinosaur games for toddlers",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Musical Game for Kids",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Mimi and Lisa",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "The Animals: Animal Kids Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "BabyTV - Kids Videos & Songs",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids All in One (in English)",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Monkey Junior-English for kids",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Learn Music & Songs Xylophone",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Pok\u00e9mon Playhouse",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Powerpuff Yourself",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Timpy Doctor Games for Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Baby Game for 2, 3, 4 Year Old",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Fantasy Coloring Book & Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "MentalUP Brain Games For Kids",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Kids Preschool Learning Games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Monkey Stories:Books & Reading",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Busy Kids! Coloring pages book",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "eAcademy",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Coloring & Music for Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Monkey Math: Kids math games",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Coloring for Kids: By Number",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "How It Works?",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Learn Music & Songs 2",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Toddler Games for 2-3 Year Old",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Coloring,  Music and Games",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Earth Cubs: Play, Watch, Learn",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Smile and Learn",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Drawing & Coloring Game",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "ELOH",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "SKIDOS Learning Games for Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Masha and the Bear: Art Games",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Toontastic 3D",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Super Daddy - Dress Up a Hero",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Space 1999 - Games for Kids 2+",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Hoopa City",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "HEY CLAY\u00ae",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Games - Puzzle World",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Coloring Pages for Kids",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "My Town - Build a City Life",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Construction Vehicles & Trucks",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "BAYALA\u00ae Unicorn Adventures",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Bubbles & Friends",
+    "category": "storage",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "How Are Things Made?",
+    "category": "storage",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Miga Town: My TV Shows",
+    "category": "bluetooth",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Robocar POLI: Sing Along",
+    "category": "bluetooth",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dr. Panda Town Tales",
+    "category": "bluetooth",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kid-E-Cats Kids Colour Book",
+    "category": "bluetooth",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Robocar POLI: Official Video",
+    "category": "bluetooth",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Miga Town: My TV Shows",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "KIDSY Baby Kids Nursery Songs",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Robocar POLI: Sing Along",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Khan Academy Kids",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "YouTube Kids",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "TabbyToo - Kids Learning Games",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Groovy The Martian for kids",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "LooLoo Kids - Nursery Rhymes",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Miga Town: My World",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Toca Boca World",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Paper Princess's Fantasy Life",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "ScratchJr",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "TinyTalk : English for Kids",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Preschool Learning Games",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dr. Panda Town Tales",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Cuquin - Baby Songs & Cartoons",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Google Kids Space",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Read Along by Google",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Stop Motion Studio",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "The Animals: Animal Kids Games",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Preschool Learning Games",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "eAcademy",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kokoro Kids:learn through play",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Earth Cubs: Play, Watch, Learn",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Smile and Learn",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Toontastic 3D",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "My Town - Build a City Life",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Talking Baby Panda-Virtual Pet",
+    "category": "microphone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Path of Giants",
+    "category": "location_tracking",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Death Squared",
+    "category": "location_tracking",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Khan Academy Kids",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Smart Tales: Kids Games PreK-5",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "ScratchJr",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "iDraw",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dr. Panda - Learn & Play",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Stop Motion Studio",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kid-E-Cats Kids Colour Book",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Fixies Coloring Contests",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Hopster: ABC Games for Kids",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Yeti Confetti Kids",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "eAcademy",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Smile and Learn",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Baby Phone & Kids Games",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Toontastic 3D",
+    "category": "camera",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "YouTube Kids",
+    "category": "contacts",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "TinyTap: Kids' Learning Games",
+    "category": "contacts",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Sally's Law",
+    "category": "contacts",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Toontastic 3D",
+    "category": "contacts",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Alley's Treasure Hunt: Love Ot",
+    "category": "contacts",
+    "llm_confirmed_violation": true
+  },
+  {
+    "app": "Kids Preschool Learning Games",
+    "category": "phone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Dr. Panda Town Tales",
+    "category": "phone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Sally's Law",
+    "category": "phone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kid-E-Cats Kids Colour Book",
+    "category": "phone",
+    "llm_confirmed_violation": false
+  },
+  {
+    "app": "Kids Preschool Learning Games",
+    "category": "phone",
+    "llm_confirmed_violation": false
+  }
+]
